@@ -36,3 +36,10 @@ yarn-error.*
 *.tsbuildinfo
 
 app-example
+
+.history
+debug.keystore
+proguard-rules.pro
+package-lock.json
+gradlew
+gradle-wrapper.jar
